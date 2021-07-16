@@ -22,13 +22,8 @@ Users should be able to:
 
 ### Screenshot
 
-<<<<<<< HEAD
 ![alt Article webpage screenshot](./images/article-webpage.jpg)
 ![alt Article active state screenshot](./images/article-active-state.jpg)
-=======
-(./images/article-webpage.jpg)
-(./images/article-active-state.jpg)
->>>>>>> 46ca29fb4916ddc9e72b37b52bcccbc08ba0ca25
 
 ### Links
 
