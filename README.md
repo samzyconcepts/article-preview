@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Screenshot
 
-[Article webpage screenshot](./images/article-webpage.jpg)
-[Article active state screenshot](./images/article-active-state.jpg)
+![alt Article webpage screenshot](./images/article-webpage.jpg)
+![alt Article active state screenshot](./images/article-active-state.jpg)
 
 ### Links
 
