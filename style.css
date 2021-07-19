@@ -75,7 +75,8 @@ p {
 	font-weight: 500;
 }
 .pop-up {
-	display: none;
+	display: flex;
+	opacity: 0;
 	align-items: center;
 	justify-content: space-evenly;
 	position: absolute;
@@ -88,13 +89,11 @@ p {
 	padding: 20px;
 	border-radius: 10px;
 	box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.2);
-	transition-delay: 400s;
+	transition-duration: .5s;
 	transition-timing-function: ease-in-out;
 }
 .show {
-	display: flex;
-	transition-delay: 400s;
-	transition-timing-function: ease-in-out;
+	opacity: 1;
 }
 .pop-up::after {
 	content: "";
